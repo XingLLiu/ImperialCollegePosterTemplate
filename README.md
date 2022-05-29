@@ -1,4 +1,4 @@
-# An Unofficial Poster Template for Imperial College, Maths Department
+# An Unofficial LaTex Template for Mathematics/Statistis Posters at Imperial College
 ![poster thumbnail](poster_thumbnail.png)
 
 Credit: Edited based on [gimini](https://github.com/anishathalye/gemini) and a [variation](https://rev.cs.uchicago.edu/k4rtik/gemini-uccs) for University of Chicago.
